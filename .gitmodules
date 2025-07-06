@@ -1,0 +1,3 @@
+[submodule "gentoo"]
+	path = gentoo
+	url = git@github.com:Fchat-Horizon/gentoo.git
